@@ -1,0 +1,213 @@
+
+.cards {
+    width: 750px;
+    height: 450px
+}
+.card {
+    width: 20%;
+    height: 16%;
+    color: rgb(102, 59, 29);
+    border: 1px solid orange;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    margin: 25px 10px 10px 10px;
+    display: inline-block;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#structur {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 40px;
+    top: 18px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+  }
+#cedvel {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 215px;
+    top: 18px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+#vezife {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 390px;
+    top: 18px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#kalendar {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 565px;
+    top: 18px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#is-qrafiki {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 40px;
+    top: 140px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#emekdas {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 215px;
+    top: 140px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#fiziki-sexs {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 390px;
+    top: 140px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#ise-qebul {
+    border-radius: 50%;
+    font-size: 18px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 565px;
+    top: 140px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#kadr {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 40px;
+    top: 265px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#isden-azad {
+    border-radius: 50%;
+    font-size: 18px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 215px;
+    top: 265px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#mezuniyyet {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 390px;
+    top: 265px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#ezamiyyet {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 565px;
+    top: 265px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#xestelik-vereqesi {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 40px;
+    top: 390px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
+
+#mukafat {
+    border-radius: 50%;
+    font-size: 20px;
+    width: 37px;
+    height: 27px;
+    color: #ffffff;
+    position: absolute;
+    left: 215px;
+    top: 390px;
+    padding-top: 7px;
+    margin-bottom: 20px;
+    background-color: orange;
+}
